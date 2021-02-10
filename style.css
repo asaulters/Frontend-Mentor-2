@@ -101,7 +101,7 @@ body{
     font-weight: 400;
 }
 
-@media(min-width: 1440px){
+@media(min-width: 1200px){
     .container{
         width: 90%;
         margin: auto;
